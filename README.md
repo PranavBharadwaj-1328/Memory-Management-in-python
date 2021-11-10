@@ -1,4 +1,6 @@
 # Memory-Management-in-python
-There is a process simulator which creates a set of logical addresses and the memory manager maps those to physical addresses.
-Run preq.py first.
-Then run process_simulation.py and then mem_manage.py. 
+This is a process simulator which creates a set of logical addresses and the memory manager maps those to physical addresses.
+Steps to use the simulator:
+-> Run preq.py first.
+-> Run process_simulation.py 
+-> Run mem_manage.py. 
